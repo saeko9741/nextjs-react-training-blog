@@ -8,6 +8,7 @@ import Link from 'next/link';
 //   return <div>{children}</div>;
 // }
 
+// // Layoutコンポーネント内のhtmlがchildrenの中に入って表示される
 // const Layout: React.FC = ({ children }) => {
 //   return <div>{children}</div>;
 // };
